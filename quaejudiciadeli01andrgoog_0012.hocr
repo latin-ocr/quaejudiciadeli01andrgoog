@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaejudiciadeli01andrgoog_0012.png"; bbox 0 0 2894 4999; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 843 1843 1545 2009">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 843 1843 1545 2009">
+     <span class='ocr_line' id='line_1_1' title="bbox 843 1843 1545 2009; baseline 0.001 -20"><span class='ocrx_word' id='word_1_1' title='bbox 843 1843 1110 2009; x_wconf 75' lang='lat' dir='ltr'><strong>PAns</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1214 1894 1545 1990; x_wconf 75' lang='grc' dir='ltr'>Ριιιοιι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 61 2296 2303 2604">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 61 2296 2303 2604">
+     <span class='ocr_line' id='line_1_2' title="bbox 61 2296 2303 2417; baseline -0.003 -10"><span class='ocrx_word' id='word_1_3' title='bbox 61 2344 177 2407; x_wconf 90' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 218 2343 345 2406; x_wconf 88' lang='lat' dir='ltr'>EIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 385 2342 783 2405; x_wconf 87' lang='lat' dir='ltr'>OPERIBUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 823 2342 906 2404; x_wconf 90' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_7' title='bbox 947 2342 1264 2417; x_wconf 88' lang='lat' dir='ltr'><strong>QUIBUS,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1309 2342 1486 2405; x_wconf 91' lang='lat' dir='ltr'><strong>ETSI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1524 2296 1688 2404; x_wconf 82' lang='lat' dir='ltr'>NON</span> <span class='ocrx_word' id='word_1_10' title='bbox 1733 2334 2303 2403; x_wconf 86' lang='lat' dir='ltr'>PRAECIPIENDI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 325 2527 2045 2604; baseline -0.001 -12"><span class='ocrx_word' id='word_1_11' title='bbox 325 2530 485 2592; x_wconf 92' lang='lat' dir='ltr'>AUT</span> <span class='ocrx_word' id='word_1_12' title='bbox 530 2531 1068 2594; x_wconf 88' lang='lat' dir='ltr'>EXISTIMANDI</span> <span class='ocrx_word' id='word_1_13' title='bbox 1115 2531 1379 2593; x_wconf 86' lang='lat' dir='ltr'>CAUSA</span> <span class='ocrx_word' id='word_1_14' title='bbox 1425 2530 1765 2592; x_wconf 83' lang='lat' dir='ltr'>SCRIPTA</span> <span class='ocrx_word' id='word_1_15' title='bbox 1812 2527 2045 2604; x_wconf 90' lang='lat' dir='ltr'><strong>SUNT,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 103 2715 2263 2782">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 103 2715 2263 2782">
+     <span class='ocr_line' id='line_1_4' title="bbox 103 2715 2263 2782; baseline -0.001 -2"><span class='ocrx_word' id='word_1_16' title='bbox 103 2717 412 2780; x_wconf 87' lang='lat' dir='ltr'>PASSIM</span> <span class='ocrx_word' id='word_1_17' title='bbox 453 2717 732 2780; x_wconf 86' lang='lat' dir='ltr'><strong>TAMEN</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 775 2718 878 2780; x_wconf 92' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_19' title='bbox 918 2717 1284 2781; x_wconf 89' lang='lat' dir='ltr'>LITTERIS</span> <span class='ocrx_word' id='word_1_20' title='bbox 1323 2717 1639 2782; x_wconf 89' lang='lat' dir='ltr'>JUDICIA</span> <span class='ocrx_word' id='word_1_21' title='bbox 1684 2715 2263 2778; x_wconf 88' lang='lat' dir='ltr'>REPERIUNTUR</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
